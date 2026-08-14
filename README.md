@@ -1,0 +1,1 @@
+This is a practice repo using the test site saucedemo - learning to connect Git and GitHub for my personal growth as a QA Analyst.
